@@ -1,4 +1,4 @@
-<img width="1392" height="362" alt="step1" src="https://github.com/user-attachments/assets/363c5ab3-e439-456b-8211-429b52835786" /><img width="1256" height="321" alt="image" src="https://github.com/user-attachments/assets/5dbc58d2-ec5f-47a8-b1dc-de76a6594fb7" /># Automated Approach For Security Reconnaissance And Obfuscated JavaScript Analysis
+Automated Approach For Security Reconnaissance And Obfuscated JavaScript Analysis
 
 Dự án này tập trung khai thác một bề mặt tấn công (Attack Surface) thường bị bỏ qua: Các tệp tin JavaScript trên giao diện người dùng (Frontend). Hệ thống được thiết kế để tự động hóa quy trình trinh sát (Reconnaissance), thu thập các tệp .js ẩn/bị làm rối mã (obfuscated), và tiến hành phân tích tĩnh nhằm trích xuất các tài nguyên nhạy cảm (API Keys, Credentials, Endpoints nội bộ) trước khi bước vào giai đoạn khai thác chuyên sâu
 
