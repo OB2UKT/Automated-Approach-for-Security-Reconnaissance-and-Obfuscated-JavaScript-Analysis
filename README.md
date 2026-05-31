@@ -34,4 +34,4 @@ Dự án này tập trung khai thác một bề mặt tấn công (Attack Surfac
 
 > Tiếp đó ta sẽ cho qua tools jsluice để thực hiện lấy ra những thông tin quan trọng ẩn nấu trong file .js 
 
-Và đó là những gì hiện tại em đã làm được và sẽ tiếp tục phát triển đồ án này trong thời gian sắp tới. Phía trên chỉ là mục đích ví dụ, minh họa không có ý định khai thác, tấn công trái phép. T_T Xin lỗi kênh 14.
+Và đó là những gì hiện tại em đã làm được và sẽ tiếp tục phát triển đồ án này trong thời gian sắp tới. Phía trên chỉ là mục đích ví dụ, minh họa không có ý định khai thác, tấn công trái phép.
